@@ -5,8 +5,8 @@ while True:
     ch = input("Enter choice: ")
 
     if ch == "1":
-        name = input("Name: ")
-        roll = input("Roll: ")
+        name = input("sana123")
+     roll = input("Roll: ")
         marks = input("Marks: ")
         students.append({"name": name, "roll": roll, "marks": marks})
         print("✅ Student added!")
